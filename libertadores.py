@@ -1,4 +1,5 @@
-# Creación de las variables para los puntajes
+import random
+
 river_puntaje = 0
 boca_puntaje = 0
 
